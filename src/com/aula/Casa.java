@@ -34,4 +34,11 @@ public class Casa {
     public boolean isResisteAoSopro(int forcaDoSopro) {
         return resisteAoSopro;
     }
+
+    /**
+     * @return vai dar o status atual da casa se ela está (De pé) ou está (Destruída).
+     * */
+    public String getStatusAtual() {
+        return statusAtual;
+    }
 }
