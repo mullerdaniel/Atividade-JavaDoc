@@ -14,4 +14,11 @@ public class LoboMau {
      * */
     public void soprar(Casa casaAlvo) {
     }
+
+    /**
+     * @return Aqui vai mostrar a valor em inteiro da força do sopro do lobo.
+     * */
+    public int getForcaDoSopro() {
+        return getForcaDoSopro();
+    }
 }
