@@ -14,4 +14,11 @@ public class Porquinho {
      * */
     public void construir(Casa tipoCasa) {
     }
+
+    /**
+     * @param porquinhoAlvo Se o porquinho da casa de palha for o alvo ele vai fugir para a casa do porquinho de madeira.
+     * @deprecated O porquinho deve simplismente usar a casa do irmão que é mais resistente.
+     * */
+    public void fugir(Porquinho porquinhoAlvo) {
+    }
 }
