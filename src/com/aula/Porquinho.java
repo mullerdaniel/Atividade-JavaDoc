@@ -21,4 +21,11 @@ public class Porquinho {
      * */
     public void fugir(Porquinho porquinhoAlvo) {
     }
+
+    /**
+     * @return vai pegar o nome do porquinho, nesse caso o (Cícero).
+     **/
+    public String getNome() {
+        return "Cícero";
+    }
 }
