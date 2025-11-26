@@ -7,4 +7,5 @@ package com.aula;
  * @since 2025-11-25
  * */
 public class CasaDePalha {
+
 }
